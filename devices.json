@@ -1,0 +1,148 @@
+{
+  "devices": [
+    {
+      "device": {
+        "unique_device_identifier": "61EAE4E0-C90A-4E7B-8478-29A5D1B3A0BF",
+        "created_at": "2024-01-06 12:53:06 UTC",
+        "updated_at": "2024-01-10 01:45:55 UTC",
+        "auth_token": "77432a08f75a2cc2e07929df89ddfb30468ae575",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.7.0",
+        "device_token": "A903CCA26FD9852A080D3718DB2AE261ACD452D351954088DCDC0C90768C757E",
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.2",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "CC2488DB-A1A3-4889-A67F-11B57D0C0821",
+        "created_at": "2024-03-07 19:20:46 UTC",
+        "updated_at": "2024-03-23 08:16:19 UTC",
+        "auth_token": "312df54691686095d18a4dc9e76c8007d5837ea0",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.13.0",
+        "device_token": null,
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.4.1",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "E51CF648-8070-45A8-8361-8BE848B806D0",
+        "created_at": "2024-03-17 04:59:13 UTC",
+        "updated_at": "2024-03-26 01:58:35 UTC",
+        "auth_token": "c2fa0911c194e4143efb2284858fabcd78128474",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.13.0",
+        "device_token": null,
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.4.1",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "58995E55-C860-4A77-92F5-6023A2322A6F",
+        "created_at": "2023-10-23 06:34:56 UTC",
+        "updated_at": "2023-11-04 21:42:31 UTC",
+        "auth_token": "45e6be7336e92e3233238b8250bc248855ecb6d3",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.2.0",
+        "device_token": "BD19F81D6B694263A0DA20B55FB961DE6123AE0AB7CD083BBBDB251BC23E59E9",
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.1",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "691B7456-CDBB-4041-B6A2-2B8AEAEB8B0F",
+        "created_at": "2024-02-24 21:31:38 UTC",
+        "updated_at": "2024-03-04 02:29:41 UTC",
+        "auth_token": "4f99a69c0b91d51446f5cbeb022b9538f702912a",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.10.0",
+        "device_token": "5F4739D8C0119451E2EE11FEA56A9C7AB42E8FFA10ADDE3EEF11E28F815F7B80",
+        "app_version": null,
+        "device_name": null,
+        "app": "HornetStories",
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.3.1",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "7F9961A3-340B-4CF2-AB18-346F0BF3E1E4",
+        "created_at": "2024-01-14 07:54:23 UTC",
+        "updated_at": "2024-01-14 07:54:25 UTC",
+        "auth_token": "db7d634118095b19bdc8cb0edb427ab74726e814",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.7.0",
+        "device_token": "D09AB05F2E15F2CB4545F192E6CE435BC8FB1CF0D0483857B3A525384B88A40F",
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.2",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "B028F49F-5E94-4BB7-8461-0CAD22B62D1E",
+        "created_at": "2024-05-21 21:24:38 UTC",
+        "updated_at": "2024-06-11 19:43:15 UTC",
+        "auth_token": "8e8d20851720de87494b920f86b4747f9e315413",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.21.0",
+        "device_token": "55666D78C88F296D410FBF06BED1FA293FB0AA0B848485A5117E4BA937252C93",
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.5.1",
+        "web_push_info_id": null
+      }
+    },
+    {
+      "device": {
+        "unique_device_identifier": "49014DD1-AC0E-452C-97B2-34F1EE995B0F",
+        "created_at": "2024-06-13 23:11:47 UTC",
+        "updated_at": "2024-06-20 03:09:25 UTC",
+        "auth_token": "cd5846babc51f14ceb8b8ba66b875eecc5e0fbdc",
+        "status": "pending",
+        "platform": "iOS",
+        "version": "8.22.0",
+        "device_token": "8D380D1C4804BE8F1338F6329ECD73FD2A4FF76074E6E28372C182DFF53A97C7",
+        "app_version": null,
+        "device_name": null,
+        "app": null,
+        "device_token_expired_at": null,
+        "device_version": "iOS 17.5.1",
+        "web_push_info_id": null
+      }
+    }
+  ]
+}
